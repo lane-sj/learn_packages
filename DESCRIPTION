@@ -3,7 +3,7 @@ Title: a package for decoding strings (and learning package creation)
 Version: 0.0.0.9000
 Authors@R: 
     person("Sadie", "Lane", , "z5418956@ad.unsw.edu.au", role = c("aut", "cre"))
-Description: Something descriptive here
+Description: Something descriptive here.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
